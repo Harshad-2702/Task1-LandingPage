@@ -39,3 +39,6 @@ To create a simple responsive landing page using HTML and CSS.
 ## Outcome
 
 Successfully developed a responsive Travel Agency Landing Page using HTML and CSS. Learned HTML page structure, CSS styling, Flexbox layout, and responsive web design using media queries.
+
+
+ https://harshad-2702.github.io/Task1-LandingPage/
